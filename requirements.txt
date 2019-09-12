@@ -1,0 +1,3 @@
+nose
+sphinx
+typecheck-decorator
