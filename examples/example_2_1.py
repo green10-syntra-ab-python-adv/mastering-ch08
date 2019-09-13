@@ -10,7 +10,7 @@ class Foo:
         print(x)
 
 Foo.bar("bar")
-# Foo.nbar("nbar")
+Foo.nbar(Foo,"nbar")
 
 foo = Foo()
 foo.bar("instance bar")
