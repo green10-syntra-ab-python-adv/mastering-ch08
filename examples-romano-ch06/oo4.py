@@ -32,6 +32,8 @@ def _(arg, verbose=False):
 fun(1.1, True)
 fun(11, True)
 fun(["een", "twee"], True)
+fun(complex(1,2), True)
+
 
 
 
