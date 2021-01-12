@@ -3,14 +3,14 @@ class Foo:
     @staticmethod
     def bar(x):
         """bar() can be called without instantiating from Foo"""
-        print(x)
+        print(x, "on class")
 
     def nbar(self, x):
         """nbar() can be used on an instance of Foo"""
-        print(x)
+        print(x, "on", self)
 
-Foo.bar("bar")
-Foo.nbar(Foo,"nbar")
+Foo.bar("class bar")
+# Foo.nbar("class nbar")
 
 foo = Foo()
 foo.bar("instance bar")
