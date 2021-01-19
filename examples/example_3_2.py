@@ -1,6 +1,6 @@
-import typecheck as tc
+#import typecheck as tc
 
-@tc.typecheck
+#@tc.typecheck
 def foo4(a: int):
     print("Received this parameter: ", a)
 
