@@ -11,6 +11,7 @@ class Foo:
 
 Foo.bar("class bar")
 # Foo.nbar("class nbar")
+# Foo.nbar(Foo, "class nbar")
 
 foo = Foo()
 foo.bar("instance bar")

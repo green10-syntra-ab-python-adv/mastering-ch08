@@ -2,7 +2,7 @@
 from time import sleep, time
 
 
-def f(sleep_time=0.1):
+def f(sleep_time=0.1, *args, **kwargs):
     """ Sleep a given amount of time
 
     :param sleep_time: the amount of time to sleep
