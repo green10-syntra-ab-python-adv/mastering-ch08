@@ -15,3 +15,5 @@ def example(number1, number2):
     return "hi sum " + str(number1+number2)
 
 print ( example(4,3) )
+
+print("Function name: " + example.__name__)
