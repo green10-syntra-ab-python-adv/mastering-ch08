@@ -2,4 +2,6 @@ nose
 sphinx
 typecheck-decorator
 mypy
-multipledispatch
+multipledispatch~=0.6.0
+
+setuptools~=57.0.0

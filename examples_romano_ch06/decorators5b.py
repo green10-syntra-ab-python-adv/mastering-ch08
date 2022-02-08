@@ -1,6 +1,8 @@
 
 from time import sleep, time
 
+from functools import wraps
+
 
 def measure(func):
     """ Measure execution time of function
@@ -8,8 +10,9 @@ def measure(func):
     :param func: the function whoose performance needs to be measured
     :return: the function func, wrapped with execution time measurement capability
     """
+    @wraps(func)
     def wrapper(*args, **kwargs):
-        """ Define wrapped function
+        """ Define wrapped function,
 
         The wrapped function executes the function func and measures execution time
 
@@ -44,9 +47,9 @@ print(f.__doc__.split("\n")[0])  # print first line of docstring
 
 """ Output:
 
-f took: 0.20029997825622559
-f took: 0.3004441261291504
-wrapper
- Define wrapped function
+f took: 0.2003176212310791
+f took: 0.3003554344177246
+f
+ Sleep a given amount of time
 """
 

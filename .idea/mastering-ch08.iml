@@ -5,11 +5,10 @@
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv35" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.5 (mastering-ch08)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (mastering-ch08-bis)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
-    <option name="projectConfiguration" value="Nosetests" />
     <option name="PROJECT_TEST_RUNNER" value="Nosetests" />
   </component>
 </module>
