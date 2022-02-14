@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89decc35-a555-42b8-a468-0d3d513cc1c0" name="Default" comment="aanpassing tbv les van 14/2/2022">
-      <change afterPath="$PROJECT_DIR$/examples/example_4_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="89decc35-a555-42b8-a468-0d3d513cc1c0" name="Default" comment="nog een aanpassing tbv les van 14/2/2022">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,7 +303,7 @@
       <workItem from="1643724444094" duration="1756000" />
       <workItem from="1644312048542" duration="8911000" />
       <workItem from="1644423722891" duration="60000" />
-      <workItem from="1644834743185" duration="1323000" />
+      <workItem from="1644834743185" duration="1524000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1568302324210</created>
@@ -327,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644330812654</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="nog een aanpassing tbv les van 14/2/2022">
+      <created>1644836223081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644836223081</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -431,7 +437,8 @@
     <MESSAGE value="initial" />
     <MESSAGE value="aanpassing tgv les van 7/2/2022" />
     <MESSAGE value="aanpassing tbv les van 14/2/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="aanpassing tbv les van 14/2/2022" />
+    <MESSAGE value="nog een aanpassing tbv les van 14/2/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="nog een aanpassing tbv les van 14/2/2022" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mastering_ch08$Doctests_in_oo3.coverage" NAME="Doctests in oo3 Coverage Results" MODIFIED="1567622252703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples-romano-ch06" />
