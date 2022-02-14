@@ -4,68 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89decc35-a555-42b8-a468-0d3d513cc1c0" name="Default" comment="aanpassing tgv les van 7/2/2022">
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/@plugins_snapshot.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/_ast.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/_ast.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/_collections_abc.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/_collections_abc.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/_typeshed/__init__.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/_typeshed/__init__.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/abc.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/abc.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/array.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/array.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/builtins.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/builtins.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/codecs.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/codecs.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/collections/__init__.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/collections/__init__.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/ctypes/__init__.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/ctypes/__init__.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/examples/__init__.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/examples/__init__.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/genericpath.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/genericpath.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/importlib/__init__.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/importlib/__init__.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/importlib/abc.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/importlib/abc.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/importlib/machinery.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/importlib/machinery.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/io.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/io.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/mmap.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/mmap.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/os/__init__.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/os/__init__.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/os/path.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/os/path.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/posix.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/posix.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/posixpath.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/posixpath.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/subprocess.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/subprocess.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/sys.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/sys.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/types.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/types.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/typing.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/typing.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/typing_extensions.data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/typing_extensions.meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples_romano_ch06/decorators5b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples_romano_ch06/roomin.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mastering-ch08.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mastering-ch08.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="89decc35-a555-42b8-a468-0d3d513cc1c0" name="Default" comment="aanpassing tbv les van 14/2/2022">
+      <change afterPath="$PROJECT_DIR$/examples/example_4_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/example_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/example_2_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/example_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/example_3_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples_romano_ch06/decorators5.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples_romano_ch06/decorators5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +134,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples_romano_ch06" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../software-testing/4-pycharm/discount-policy-behave" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -211,29 +152,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.oo3">
-    <configuration name="example_3_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mastering-ch08" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/example_3_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.example_4_1">
     <configuration name="example_3_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mastering-ch08" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,6 +167,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/example_3_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example_4_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mastering-ch08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/example_4_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,19 +264,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.example_3_1" />
       <item itemvalue="Python.example_3_2" />
       <item itemvalue="Python.roomin2" />
       <item itemvalue="Python.oo2" />
       <item itemvalue="Python.oo3" />
+      <item itemvalue="Python.example_4_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.example_4_1" />
         <item itemvalue="Python.oo3" />
         <item itemvalue="Python.oo2" />
         <item itemvalue="Python.roomin2" />
         <item itemvalue="Python.example_3_2" />
-        <item itemvalue="Python.example_3_1" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +302,9 @@
       <workItem from="1569146131934" duration="26000" />
       <workItem from="1569320100401" duration="2927000" />
       <workItem from="1643724444094" duration="1756000" />
-      <workItem from="1644312048542" duration="8731000" />
+      <workItem from="1644312048542" duration="8911000" />
+      <workItem from="1644423722891" duration="60000" />
+      <workItem from="1644834743185" duration="1323000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1568302324210</created>
@@ -377,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643725573783</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="aanpassing tbv les van 14/2/2022">
+      <created>1644330812654</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644330812654</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -480,7 +430,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial" />
     <MESSAGE value="aanpassing tgv les van 7/2/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="aanpassing tgv les van 7/2/2022" />
+    <MESSAGE value="aanpassing tbv les van 14/2/2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="aanpassing tbv les van 14/2/2022" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mastering_ch08$Doctests_in_oo3.coverage" NAME="Doctests in oo3 Coverage Results" MODIFIED="1567622252703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples-romano-ch06" />
@@ -490,6 +441,7 @@
     <SUITE FILE_PATH="coverage/mastering_ch08_bis$decorators5b.coverage" NAME="decorators5b Coverage Results" MODIFIED="1644314334100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples_romano_ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08_bis$decorators6.coverage" NAME="decorators6 Coverage Results" MODIFIED="1643725056344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples_romano_ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08$decorators7.coverage" NAME="decorators7 Coverage Results" MODIFIED="1567515138675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples-romano-ch06" />
+    <SUITE FILE_PATH="coverage/mastering_ch08_bis$example_4_1.coverage" NAME="example_4_1 Coverage Results" MODIFIED="1644835612817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/mastering_ch08$oo4.coverage" NAME="oo4 Coverage Results" MODIFIED="1569324885572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples-romano-ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08_bis$decorators3.coverage" NAME="decorators3 Coverage Results" MODIFIED="1644312194294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples_romano_ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08$example_3_3.coverage" NAME="example_3_3 Coverage Results" MODIFIED="1567606323463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
