@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89decc35-a555-42b8-a468-0d3d513cc1c0" name="Default" comment="nog een aanpassing tbv les van 14/2/2022">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="89decc35-a555-42b8-a468-0d3d513cc1c0" name="Default" comment="gitignore aangepast">
+      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/examples/example_3_4.data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/.mypy_cache/3.10/examples/example_3_4.meta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/example_3_4a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/example_3_4b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/example_3_4c.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +138,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../software-testing/4-pycharm/discount-policy-behave" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -145,14 +150,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples" />
       <recent name="$PROJECT_DIR$/examples_romano_ch06" />
       <recent name="$PROJECT_DIR$/examples-romano-ch06" />
-      <recent name="$PROJECT_DIR$/examples" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.example_4_1">
-    <configuration name="example_3_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.example_3_4c">
+    <configuration name="example_3_4a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mastering-ch08" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,7 +170,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/example_3_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/example_3_4a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example_3_4b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mastering-ch08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/example_3_4b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example_3_4c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mastering-ch08" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/example_3_4c.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,28 +245,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oo2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mastering-ch08" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples_romano_ch06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples_romano_ch06/oo2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="oo3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mastering-ch08" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,42 +267,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="roomin2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mastering-ch08" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples_romano_ch06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples_romano_ch06/roomin2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.example_3_2" />
-      <item itemvalue="Python.roomin2" />
-      <item itemvalue="Python.oo2" />
       <item itemvalue="Python.oo3" />
       <item itemvalue="Python.example_4_1" />
+      <item itemvalue="Python.example_3_4a" />
+      <item itemvalue="Python.example_3_4b" />
+      <item itemvalue="Python.example_3_4c" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.example_3_4c" />
+        <item itemvalue="Python.example_3_4b" />
+        <item itemvalue="Python.example_3_4a" />
         <item itemvalue="Python.example_4_1" />
         <item itemvalue="Python.oo3" />
-        <item itemvalue="Python.oo2" />
-        <item itemvalue="Python.roomin2" />
-        <item itemvalue="Python.example_3_2" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +308,8 @@
       <workItem from="1643724444094" duration="1756000" />
       <workItem from="1644312048542" duration="8911000" />
       <workItem from="1644423722891" duration="60000" />
-      <workItem from="1644834743185" duration="1524000" />
+      <workItem from="1644834743185" duration="2151000" />
+      <workItem from="1644916018885" duration="3658000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1568302324210</created>
@@ -333,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644836223081</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="gitignore aangepast">
+      <created>1644836284634</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644836284634</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -438,7 +451,8 @@
     <MESSAGE value="aanpassing tgv les van 7/2/2022" />
     <MESSAGE value="aanpassing tbv les van 14/2/2022" />
     <MESSAGE value="nog een aanpassing tbv les van 14/2/2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="nog een aanpassing tbv les van 14/2/2022" />
+    <MESSAGE value="gitignore aangepast" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore aangepast" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mastering_ch08$Doctests_in_oo3.coverage" NAME="Doctests in oo3 Coverage Results" MODIFIED="1567622252703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples-romano-ch06" />
@@ -461,17 +475,20 @@
     <SUITE FILE_PATH="coverage/mastering_ch08_bis$oo2.coverage" NAME="oo2 Coverage Results" MODIFIED="1644329993518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples_romano_ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08$example_3_1.coverage" NAME="example_3_1 Coverage Results" MODIFIED="1567599593951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/mastering_ch08_bis$decorators8given.coverage" NAME="decorators8given Coverage Results" MODIFIED="1644315011580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples_romano_ch06" />
+    <SUITE FILE_PATH="coverage/mastering_ch08_bis$example_3_4b.coverage" NAME="example_3_4b Coverage Results" MODIFIED="1644919289009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/mastering_ch08_bis$example_1_1.coverage" NAME="example_1_1 Coverage Results" MODIFIED="1644315171457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/mastering_ch08$decorators1.coverage" NAME="decorators1 Coverage Results" MODIFIED="1567510877911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples-romano-ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08$decorators8solution.coverage" NAME="decorators8solution Coverage Results" MODIFIED="1569322859841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples-romano-ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08$oo2.coverage" NAME="oo2 Coverage Results" MODIFIED="1567608256001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples-romano-ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08_bis$decorators2.coverage" NAME="decorators2 Coverage Results" MODIFIED="1644312158389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples_romano_ch06" />
+    <SUITE FILE_PATH="coverage/mastering_ch08_bis$example_3_4.coverage" NAME="example_3_4a Coverage Results" MODIFIED="1644918213917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/mastering_ch08_bis$decorators5.coverage" NAME="decorators5 Coverage Results" MODIFIED="1644313686263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples_romano_ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08_bis$example_3_1.coverage" NAME="example_3_1 Coverage Results" MODIFIED="1644327705916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/mastering_ch08$oo3overload.coverage" NAME="oo3overload Coverage Results" MODIFIED="1569324342828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples-romano-ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08$decorators2.coverage" NAME="decorators2 Coverage Results" MODIFIED="1567511306030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples-romano-ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08_bis$roomin2.coverage" NAME="roomin2 Coverage Results" MODIFIED="1644329690193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples_romano_ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08$example_2_1.coverage" NAME="example_2_1 Coverage Results" MODIFIED="1568370332176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/mastering_ch08_bis$example_3_4c.coverage" NAME="example_3_4c Coverage Results" MODIFIED="1644919497281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/mastering_ch08$decorators3.coverage" NAME="decorators3 Coverage Results" MODIFIED="1567511552399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples-romano-ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08_bis$decorators4.coverage" NAME="decorators4 Coverage Results" MODIFIED="1644312268164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples_romano_ch06" />
     <SUITE FILE_PATH="coverage/mastering_ch08$example_3_2.coverage" NAME="example_3_2 Coverage Results" MODIFIED="1569323109662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
